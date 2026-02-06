@@ -110,11 +110,8 @@ Cada fila representa un día de ventas del puesto de limonada.
 Columnas principales:
 
 - temperatura → grados Celsius
-
 - humedad → porcentaje
-
 - fin_de_semana → 1 = sí, 0 = no
-
 - ventas → limonadas vendidas
 
 ## 🛠️ Librerías usadas
@@ -122,13 +119,9 @@ Columnas principales:
 Este proyecto utiliza:
 
 - pandas → manejo de datos
-
 - numpy → cálculos numéricos
-
 - matplotlib → gráficos
-
 - scikit-learn → modelos de Machine Learning
-
 - jupyter → notebooks interactivos
 
 ## 📦 Instalación de dependencias
@@ -176,7 +169,7 @@ Abre los notebooks:
 jupyter notebook
 ```
 
-🧩 Qué viene después
+## 🧩 Qué viene después
 
 Este proyecto prepara el terreno para aprender:
 
@@ -186,7 +179,7 @@ Este proyecto prepara el terreno para aprender:
 - pipelines de Machine Learning
 - uso de modelos en aplicaciones reales
 
-💬 Mensaje final
+## 💬 Mensaje final
 
 “Antes de escribir mucho código, entendemos el dibujo.
 Si entiendes el gráfico, entiendes el modelo.”
