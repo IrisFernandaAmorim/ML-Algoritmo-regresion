@@ -1,4 +1,4 @@
-# 🍋 Machine Learning Supervisado – Algoritmos de Regresión
+# Machine Learning Supervisado – Algoritmos de Regresión
 
 Este repositorio acompaña una clase práctica de **Machine Learning Supervisado**, centrada en **algoritmos de regresión**, usando Python y Jupyter Notebook.
 
